@@ -3,7 +3,7 @@ BOT autonome et contrôlable de hack et d'amélioration sur http://s0urce.io/
 
 ### Version : 1.0
 
-#### MAJ : Suppression de la notion de mineur avancé + Ajout du numéro de version dans la config du BOT
+#### MAJ : A VENIR DANS LA PROCHAINE VERSION QUI SERAS EN MISSE A JOUR DIRECTEMENT SUR GITHUB
 
 
 bot autonome/Hack pour S0urce.io
